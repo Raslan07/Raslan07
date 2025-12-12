@@ -32,15 +32,15 @@ I’m a Computer Science student at TNU with a strong foundation in front-end de
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-Abd-Elrazek&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostafa-Raslan&theme=2077))
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahmoud-Abd-Elrazek&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mostafa-Raslan&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahmoud-Abd-Elrazek&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mostafa-Raslan&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahmoud-Abd-Elrazek&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mostafa-Raslan&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahmoud-Abd-Elrazek&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mostafa-Raslan&theme=2077&utcOffset=8)
 </p>        
 <!--- stats (end) -->
 
@@ -54,7 +54,7 @@ I’m a Computer Science student at TNU with a strong foundation in front-end de
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,github,html,js,linux,vscode&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=git,tailwind,css,discord,github,html,js,linux,vscode&perline=14"/>
   </a>
 </p>
 
@@ -66,14 +66,6 @@ I’m a Computer Science student at TNU with a strong foundation in front-end de
 <!-- Contact with me -->
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<p align="left">
-<a href="https://twitter.com/mahmoudabderaz4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoudabderaz4" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mahmoud-abderazek-b0786a253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud abderazek" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22906375/mahmoud-abderazek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmoud abderazek" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100028358445465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud abdelrazek" height="30" width="40" /></a>
-<a href="https://instagram.com/mahmoud.abdelrazek.5477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoud.abdelrazek.5477" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mahmoud_abdelrazek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahmoud_abdelrazek" height="30" width="40" /></a>
-</p>
 <!-- Contact with me -->
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
